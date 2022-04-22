@@ -1,0 +1,2 @@
+hcClass,gwall_rk_status,goodsOwner,warehouse,outdety,number,code,price,ftax,unit,msg_code,msg,desc
+czc,出库/出库修改,4,KEJIECZC,save,1,130204000039,200,13,1,0,执行失败，提示库存不足,正常数据

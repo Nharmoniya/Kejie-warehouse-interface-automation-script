@@ -1,0 +1,5 @@
+#OA系统测试环境数据库链接信息，Test从库
+dbip: 39.100.157.81
+port: 3318
+usr: congku
+pwd: jalbgwnglaghwifg

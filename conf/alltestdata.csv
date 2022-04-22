@@ -1,0 +1,14 @@
+hcClass,gwall_rk_status,goodsOwner,warehouse,outdety,number,code,price,ftax,unit,msg_code,msg,desc
+czc,出库/出库修改,4,KEJIECZC,save,1,1.30E+11,200,13,1,10201,执行失败,code错误
+czc,出库/出库修改,4,KEJIECZC,save,-1,1.30E+11,200,13,1,10201,执行失败,数量为负数
+czc,出库/出库修改,4,KEJIECZC,save,a,1.30E+11,200,13,1,10201,执行失败,数量为字母
+czc,出库/出库修改,4,KEJIECZC,save,0.1,1.30204E+11,200,13,1,10201,执行失败,数量为小数
+czc,出库/出库修改,4,KEJIECZC,save,1,100,200,13,1,10201,执行失败,code错误
+czc,出库/出库修改,4,KEJIECZC,save,1,adc,200,13,1,10201,执行失败,code为英文
+czc,出库/出库修改,4,KEJIECZC,save,1,-1.30E+11,200,13,1,10201,执行失败,code为负数
+czc,出库/出库修改,4,KEJIECZC,save,1,1.30E+11,-200,13,1,10201,执行失败,价格为负数
+czc,出库/出库修改,4,KEJIECZC,save,1,1.30E+11,200.3333,13,1,10201,执行失败,价格超过3位小数
+czc,出库/出库修改,4,KEJIECZC,save,1,1.30E+11,adc,13,1,10201,执行失败,价格为英文
+czc,出库/出库修改,4,KEJIECZC,save,1,1.30E+11,200,a,1,10201,执行失败,税率为英文
+czc,出库/出库修改,4,KEJIECZC,save,1,1.30E+11,200,-13,1,10201,执行失败,税率为负数
+czc,出库/出库修改,4,KEJIECZC,save,1,1.30E+11,200,,1,10201,执行失败,税率为空

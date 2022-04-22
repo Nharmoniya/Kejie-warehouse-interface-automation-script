@@ -1,0 +1,8 @@
+hcClass,gwall_rk_status,goodsOwner,warehouse,outdety,number,code,price,ftax,unit,msg_code,msg,desc
+czc,出库/出库修改,4,KEJIECZC,update,2,1.30E+11,200,13,1,0,执行成功,修改数量
+czc,出库/出库修改,4,KEJIECZC,update,1,1.30E+11,200,13,1,0,执行成功,修改code
+czc,出库/出库修改,4,KEJIECZC,update,1,1.30E+11,100,13,1,0,执行成功,修改价格
+czc,出库/出库修改,4,KEJIECZC,update,1,1.30E+11,200,10,1,0,执行成功,修改税率
+czc,出库/出库修改,4,KEJIECZC,update,1,1.30E+11,200,13,2,0,执行成功,修改单位
+czc,出库/出库修改,4,KEJIECZC,cancel,1,1.30E+11,200,13,2,0,执行成功,取消订单
+czc,出库/出库修改,4,KEJIECZC,cancel,1,1.30E+11,200,13,2,0,执行失败,二次取消
